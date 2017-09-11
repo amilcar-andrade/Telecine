@@ -33,4 +33,10 @@
     <item>@string/countdown_two</item>
     <item>@string/countdown_one</item>
   </array>
+
+  <!-- app shortcuts -->
+  <string name="shortcut_launch_short_label">@string/shortcut_name</string>
+  <string name="shortcut_launch_long_label">@string/shortcut_name</string>
+  <string name="shortcut_search_disabled">Launch not available</string>
+
 </resources>
